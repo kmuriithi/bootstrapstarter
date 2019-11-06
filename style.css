@@ -1,0 +1,16 @@
+body {
+    padding-top: 58px;
+
+}
+.em-text {
+    color: green !important;
+}
+
+.jumbotron{
+  background:  url(images/depth.jpg) ;
+}
+
+.jumbotron .app-btn {
+    width:40% ;
+    margin-right:30px;
+}
